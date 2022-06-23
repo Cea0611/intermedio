@@ -4,7 +4,7 @@ class tabla: NSViewController {
 
     let alert = NSAlert()
     
-    @IBOutlet  var vcTabla:ViewController!
+    @IBOutlet var vcTabla:ViewController!
     var bandera = false
     var index:Int!
     @IBOutlet weak var eliminado: NSTextField!
